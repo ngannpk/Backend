@@ -1860,7 +1860,6 @@
     <column id="433" parent="340" name="slider_id">
       <Position>3</Position>
       <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
     <index id="434" parent="340" name="fk_wd_slider_images_wd_slider1_idx">
